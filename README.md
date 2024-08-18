@@ -1,6 +1,6 @@
 # PRODIGY_FS_01
 Implemented a user authentication system with secure login and registration functionality. 
-This PHP-based project is a robust and secure user authentication system that provides an interface for users to sign up, log in, and access protected content. It uses modern security practices, including password hashing, session management, and form validation to ensure user data protection. This system can be integrated into any web application requiring user authentication.
+This Full stack project is a robust and secure user authentication system that provides an interface for users to sign up, log in, and access protected content. It uses modern security practices, including password hashing, session management, and form validation to ensure user data protection. This system can be integrated into any web application requiring user authentication.
 
 Key Features :
 1. User Registration (Sign-Up)
